@@ -6,7 +6,7 @@ Sudoku is a number placement puzzle where one assigns a number to each cell.
 Consider the 9 × 9 puzzle shown in this Figure. The aim is to assign a number
 from 1 to 9 in each cell so that each row, column, and block contains only one
 instance of each number. A Sudoku puzzle can be regarded as a SAT problem.
-![Alt text](./sudoku.png.png?raw=true "Sudoku")
+![Alt text](./sudoku.png?raw=true "Sudoku")
 
 ## Prerequisites
 
